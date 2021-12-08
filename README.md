@@ -1,6 +1,6 @@
 ### Olá, meu nome é Gabriela
 
-- 🌱 Sou Biomédica da área da saúde, em transição de carreira para desenvolvimento Android
+- 🌱 Sou Biomédica da área de análises clínicas, em transição de carreira para desenvolvimento Android
 - 🖥️ Android Developer 
 - 👩‍💻 Linguagens Kotlin e Android (nativo ou SDK).
 - 🔭 I’m currently Looking for replace
