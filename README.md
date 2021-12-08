@@ -8,12 +8,8 @@
 - 😄 Pronouns: She / Her
 
   ##
- 
-  <div>
-  <img align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-plain.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg">
-</div>
+ </code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code> 
+<br /> <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code> 
   
   ##
  
