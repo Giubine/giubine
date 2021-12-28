@@ -3,7 +3,7 @@
 - 🌱 Sou Biomédica da área de análises clínicas, em transição de carreira para desenvolvimento Android
 - 🖥️ Android Developer 
 - 👩‍💻 Linguagens Kotlin e Android (nativo ou SDK).
-- 🔭 I’m currently Looking for replace
+- 🔭 NINJA 
 - 📫 How to reach me: Gabi
 - 😄 Pronouns: She / Her
 
