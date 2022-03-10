@@ -14,8 +14,7 @@
 </div>
 
   ##
- </code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> 
-<br /> <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code> 
+ </code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> <br /> <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code> 
   
   ##
  
