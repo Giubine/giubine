@@ -1,9 +1,8 @@
 ### Olá, meu nome é Gabriela
 
 - 🖥️ Android Developer 
-- 🌱 Sou Biomédica da área de análises clínicas, em transição de carreira para desenvolvimento Android
+- 🌱 Sou Biomédica da área de análises clínicas, de formação,realizei transição de carreira para desenvolvimento Android
 - 👩‍💻 Linguagens Kotlin e Java (nativo ou SDK).
-- 🔭 Ninja na Company.edTech
 - 📫 How to reach me: Gabi
 - 😄 Pronouns: She / Her
 
